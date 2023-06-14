@@ -1,6 +1,6 @@
 # Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 30/05/2023
+### DATE: 
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +47,8 @@
 
 ## Output:
 ![image](g.png)
-### Name: SATHISH R
-### Register Number: 212222100048
+### Name: AJAY ASWIN M
+### Register Number: 212222240005
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
